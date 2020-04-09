@@ -1,0 +1,11 @@
+Javascript is an event driven and Object based language
+Javascript will listen for events happening in the dom/browser and react based on that, hence the "event driven" part.
+Everything is collected into 'Objects' in Javascript. 
+
+Interpreted Language vs Compiled Language
+compiled language will compile all your code and make sure it works before running it
+Interpreted language will run the code even if it doesn't work as intended
+
+dynamic typed vs static typed
+you are allowed to change the type of the variable from string to boolian for example
+in static languages you can not change types
