@@ -8,4 +8,4 @@ Interpreted language will run the code even if it doesn't work as intended
 
 dynamic typed vs static typed
 you are allowed to change the type of the variable from string to boolian for example
-in static languages you can not change types
+in static languages you can not change types.
